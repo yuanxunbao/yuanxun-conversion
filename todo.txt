@@ -7,3 +7,5 @@ Conversion functions needed:
 - Hours to Minutes
 
 - Feet to Inches
+
+- add conversion.py
